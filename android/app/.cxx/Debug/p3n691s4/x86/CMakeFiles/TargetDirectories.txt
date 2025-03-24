@@ -1,0 +1,2 @@
+/Users/mahmoud/StudioProjects/eye_help_second/android/app/.cxx/Debug/p3n691s4/x86/CMakeFiles/edit_cache.dir
+/Users/mahmoud/StudioProjects/eye_help_second/android/app/.cxx/Debug/p3n691s4/x86/CMakeFiles/rebuild_cache.dir
